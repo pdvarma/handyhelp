@@ -1,0 +1,15 @@
+SMAP
+register_005fuser_jsp.java
+JSP
+*S JSP
+*F
++ 0 register_user.jsp
+register_user.jsp
+*L
+1,28:53
+28:81
+29:82,3
+30:85
+31,24:87
+54,2:111
+*E

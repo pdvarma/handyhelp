@@ -1,0 +1,12 @@
+SMAP
+getUserDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 getUserDetails.jsp
+getUserDetails.jsp
+*L
+1,33:54
+33,2:87
+35:89,2
+*E
