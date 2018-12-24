@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HandlyHelp</string>
+
+    <!--Bottom Sheet-->
+    <string name="bottom_sheet_login_button">Login</string>
+    <string name="bottom_sheet_helper_button">Become a Helper</string>
+
+    <!--SignUp-->
+    <string name="sign_up_first_name">Enter Full Name</string>
+    <string name="sign_up_contact">Enter Contact</string>
+    <string name="sign_up_email">Enter EmailID</string>
+    <string name="sign_up_password">Enter Password</string>
+    <string name="sign_up_confirm_password">Enter Confirm Password</string>
+    <string name="sign_up_button">Create Account</string>
+</resources>

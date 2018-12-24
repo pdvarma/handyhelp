@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="example.javatpoint.com.optionmenu.MainActivity">
+
+    <item  android:id="@+id/menu_login_options"
+        android:title="Item 1"
+        android:icon="@drawable/ic_lock_open_black_24dp"
+        app:showAsAction="always" />
+</menu>
